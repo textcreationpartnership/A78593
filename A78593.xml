@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of Mercurius Politicus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78593</idno>
+            <idno type="STC">Wing C2021</idno>
+            <idno type="STC">Thomason E609_12</idno>
+            <idno type="STC">ESTC R205095</idno>
+            <idno type="EEBO-CITATION">99864534</idno>
+            <idno type="PROQUEST">99864534</idno>
+            <idno type="VID">165712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165712)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E609[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of Mercurius Politicus.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack on the weekly publication "Mercurius Politicus" and particularly on Marchamont Nedham, one of its authors.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 14. 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nedham, Marchamont, 1620-1678.</term>
+               <term>Mercurius politicus.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pamphlet">
+            <pb n="1" facs="tcp:165712:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Character of</hi> Mercurius Politicus.</head>
+            <p>THe <hi>Mercurius Politicus</hi> is the paper <hi>Militia,</hi> a <hi>Diur<g ref="char:EOLhyphen"/>nall</hi> Offenſive and Defenſive: The only Pamphlet in pay, and a Libell of the Eſtabliſhment among the ſtanding Forces of the Common-wealth.</p>
+            <p>'Tis the Satyre-Generall. <hi>Gerbier</hi> inverted, or a Lecture concerning the Art of ſpeaking Ill.</p>
+            <p>'Tis our Printed-Agent, or a domeſtique Embaſſadour, that conſidering the danger of going abroad, choſe rather to be Lieger at home, and <hi>lie</hi> betwixt the State and the Country.</p>
+            <p>'Tis <hi>The Devil's an Aſſe,</hi> the Weekly Comedy acted at <hi>White-hall</hi> by its Majeſties Servant. The Author, that indi<g ref="char:EOLhyphen"/>viduall <hi>Black-Fryars,</hi> like the ancient <hi>Pantomimes,</hi> ſufficing to play all perſons: For this is he, who in the Prologue of theſe times entered firſt as <hi>Britanicus,</hi> the ſcene altering, turn'd into <hi>Pragmaticus;</hi> and now at laſt appears in his own clothes, <hi>Mercurius Politicus.</hi>
+            </p>
+            <p>So many times has our Mercury been metamorphos'd, that now you may, if you pleaſe, call him the <hi>Mercurius Triſmegiſtus.</hi>
+            </p>
+            <p>He is a true branch of the Triple Tree: Who ever ſaw a gleek of Knaves thus ſhuffled into one Card? 'Tis the right <hi>Hocus</hi> trick of ſhifting the three Boxes.</p>
+            <p>There cannot be a better definition of his book, and him, then that it is the third feather of the politick Shittle-cock.</p>
+            <p>I wiſh that it were lawfull for me here to obſerve the uſuall modeſty of writing, and that I could conſume his Book, with<g ref="char:EOLhyphen"/>out touching his Perſon, as the Lightning that exhauſts the Liquor without endamaging the Hogs-head.</p>
+            <p>But beſides that, there ought no quarter to be given to a
+<pb n="2" facs="tcp:165712:2"/>Writer ſo often revolted. His book, and he, are ſo complica<g ref="char:EOLhyphen"/>ted, and bound up together, they are ſo much the ſame thing, and he takes ſuch a pride in it, that if I could, yet it were too great an inhumanity to part them.</p>
+            <p>It is his ſecond ſelf in black and white, and they live in a perpetuall tranſmutation, as convertible as Water into Aire, or as formerly Diurnalls into Roſe-powder.</p>
+            <p>He is therefore of a body ſo incompos'd, that it looks like the very ſtatue of Paſquin, the Saint of his vocation.</p>
+            <p>His Face is ſo ill, as if nature had in it libelled againſt Man<g ref="char:EOLhyphen"/>kinde.</p>
+            <p>And he wears a Perriwig as if to make ſome ſatisfaction for all the Calumnies he is guilty of, he bore his head always in a portable Pillory.</p>
+            <p>While his Cheek-bones riſe as if from within, they would ſtamp thoſe Letters through with which he deſerves to be ſtigmatiz'd.</p>
+            <p>But there is a further reaſon for his Perriwig; a ſuttle diſ<g ref="char:EOLhyphen"/>eaſe having diſtinguiſhed betwixt him and his haire: The ſame which ſuggeſts to his mouth that continuall impurity. It being impoſſible that without ſome venereall cauſe there ſhould be a Tongue ſo virulent.</p>
+            <p>And indeed, this <hi>Mercurius Politicus</hi> is his third Mercury Pill, by which he has caſt himſelfe into this high and laſt ſa<g ref="char:EOLhyphen"/>livation: That as at firſt he ſpet his Venome againſt the King, and next beſpatter'd the Independent, ſo now he may flux himſelf upon the Presbyterian.</p>
+            <p>It is ſtrange that he could not let the Presbyterian alone, and will not allow us ſo much as a forme of Godlineſſe.</p>
+            <p>But what can we expect from him in whom alone there are more Hereſies then among a whole Synod of Divines?</p>
+            <p>He ſeemes to be a Salt extracted out of the aſhes of what<g ref="char:EOLhyphen"/>ſoever bookes have been burn'd by the hands of the Hang<g ref="char:EOLhyphen"/>man.</p>
+            <pb n="3" facs="tcp:165712:2"/>
+            <p>A day of Humiliation were not ſufficient to deplore him, and a Counſell might grow hoarſe with Anathemaes againſt all his Errours.</p>
+            <p>This is our Puny <hi>Mahomet,</hi> who intends us no Scripture but this his own Alcoran, of which he gives us an <hi>Azoara</hi> every week, and imagines too, that by the power of the Sword he can make us believe it.</p>
+            <p>And according to this Religion he lives. He uſeth ſuch Oaths and Blaſphemies as deſerve that his Tongue ſhould be burn'd through with an hot Iron, if any thing can burn that which is ſet on fire of Hell.</p>
+            <p>Yet it might be expected that he ſhould loath drinking, ſeeing mad Dogs doe alwayes abhor the water; but it ſeems the Compariſon doth not hold in ſtronger Liquors: For he, on the contrary, lives as in the dayes of <hi>Pantagruel,</hi> and drinks as though it were to quench damnation.</p>
+            <p>He were a moſt fit man for a <hi>Denmark</hi> Embaſſage, to fox the King unto our conditions; or if he could not that, then to drink up the <hi>Sound</hi> in his return, and revenge us in an inſtant.</p>
+            <p>But this may, however, be tolerated, ſeeing in Common<g ref="char:EOLhyphen"/>wealths, as in <hi>Holland, Suizzerland,</hi> and the reſt, they neceſ<g ref="char:EOLhyphen"/>ſarily drink deeper then in Kingdomes, the healths of the A<g ref="char:EOLhyphen"/>riſtocracy and Militia being farre more numerous then thoſe of a King and his Progeny.</p>
+            <p>But who, ſince the Act againſt Bawdy-houſes, hath allow'd him this publique Brothell in his Mouth?</p>
+            <p>I believe that Signior <hi>Riva</hi> going interpreter into <hi>Spain,</hi> left to him the Pimp-lieutenancy; and againſt all caſualties in<g ref="char:EOLhyphen"/>ſured in his perſon, the <hi>Italian</hi> vertues.</p>
+            <p>And that very Wit in which he ſo much triumphs, ima<g ref="char:EOLhyphen"/>gining that he is the Writing <hi>Attila,</hi> and God Almighties Whip-cord: what is it but a Ruffian-like, and ſcurrilous language, in which, after all his indeavours, yet he will never attaine to the perfection of <hi>Billings gate.</hi>
+            </p>
+            <pb n="4" facs="tcp:165712:3"/>
+            <p>Has he not bought it at the rate of all theſe vices, and joyn'd together the gall of Bawds, and Whores, and Sorce<g ref="char:EOLhyphen"/>rers to make up his Intelligence? for what he hath not been able to betray, by the ſociety of his owne vices, he inquires here:</p>
+            <p>And rakes up in theſe publique dung-hills, the ragges of mens converſation, which he may after make up into his two<g ref="char:EOLhyphen"/>penny Mops, or ſerve himſelf of for manure againſt the bar<g ref="char:EOLhyphen"/>renneſſe of his own wit.</p>
+            <p>Has he not with this Wit ſcandalized both Sexes, diſob<g ref="char:EOLhyphen"/>lig'd three Parties, reproached our whole Nation? and not onely ours, but all others, having declar'd himſelfe as the diſgrace, ſo to be the publique enemy of mankind.</p>
+            <p>This wit hath made him our Lay-<hi>Spalatto,</hi> a three-pil'd Apoſtate, a renegade more notorious than any in <hi>Sally</hi> or <hi>Algier.</hi>
+            </p>
+            <p>And yet he could never by it make himſelf more conſide<g ref="char:EOLhyphen"/>rable upon any part than a ſeller of Rats-bane.</p>
+            <p>Thoſe of the Royall Party diſcerning him alwayes to be one that exerciſed his Invention for the King, but his Malice againſt Him.</p>
+            <p>And how advantageous ſoever he pretends his conditions to be with this party, a ſtarved Garriſon might have come in upon better termes: For what Articles ſhould they give to that man whom they ſaw already in their hands, being betray'd by his owne perfideouſneſſe, and inſorced by ne<g ref="char:EOLhyphen"/>ceſſity?</p>
+            <p>He had the right Articles of <hi>Milan,</hi> in which the Citizens, to ſave their lives, ſubmitted to draw Figs with their Teeth out of the Genitalls of the
+<note n="*" place="margin">Frederick Barbaroſſa.</note> Emperiours ſhee-Mules.</p>
+            <p>For ſuch is the Office they have imployed him in, wherein they have not ſo much provided for their owne ſervice, as for his infamy. I will give you the principall Articles of his A<g ref="char:EOLhyphen"/>greement.</p>
+            <pb n="5" facs="tcp:165712:3"/>
+            <floatingText xml:lang="eng" rend="italic" type="mock_terms_of_surrender">
+               <body>
+                  <head>Articles of the Surrender of the <hi>Mercurius Pragmaticus.</hi>
+                  </head>
+                  <list>
+                     <item>THat the ſaid <hi>Mercurius Pragmaticus</hi> ſhall by the 6. of June ſurrender up wholly himſelfe, his Pen and Inke-horne, and the keyes of his Study, into the hands of the Lord Preſident, and to the Obedience of the Common-wealth of <hi>England.</hi>
+                     </item>
+                     <item n="2">2. That in token of his true converſion he ſhall forthwith ſet up the Colours of the Common-wealth, and write a Book in de<g ref="char:EOLhyphen"/>fence of the preſent Government, to which he ſhall affix his name in Capitall Letters.</item>
+                     <item n="3">3. That from the ſaid 6. of June he ſhall compoſe a weekly <hi>Mercury</hi> of his ſtile, in which the truth of his Intelligence ſhall have no other meaſure then the Intereſt of the Common-wealth.</item>
+                     <item n="4">4. That morever to teſtifie his repentance for his late rebelli<g ref="char:EOLhyphen"/>on, he ſhall preſent a Book, and ask pardon particularly of the Generall, and all other Members of the Councel of State or Ar<g ref="char:EOLhyphen"/>my, whom he hath any way diſobliged.</item>
+                     <item n="5">5. That for better ſecurity of the performance of theſe Condi<g ref="char:EOLhyphen"/>tions upon his part, he ſhall forthwith deliver up all papers of Tranſaction or Intelligence, together with their Ciphers which came to his hand in the year 1648. and 1649. Together with a liſt of all perſons with whom he at that time entertained any Correſpondence.</item>
+                     <item n="6">6. That upon the perfecting of theſe conditions he ſhall be received into the protection of the Common-wealth, and ſhall have every year a Cap and a Bell with permiſsion to lick up the crumbs that fall from the Lord Preſidents Table: Beſide, a week<g ref="char:EOLhyphen"/>ly penſion to be aſsigned him upon his own Mercuries.</item>
+                  </list>
+                  <closer>
+                     <signed>SIGNED, &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Did ever Witch make ſuch a Compact? Had he not much better have taken up his old trade of whipping Boyes at a penny a week; or like a Gifted Brother have propagated the Goſpell in the dark corners of the Nation?</p>
+            <pb n="6" facs="tcp:165712:4"/>
+            <p>Or if he muſt needs be writing, could he not rather have choſen to draw up their provident Acts againſt Powdring of Hair, or wearing of Paches? As for example.</p>
+            <floatingText xml:lang="eng" rend="italic" type="mock_Act_of_Parliament">
+               <body>
+                  <head>An Act prohibiting the wearing of <hi>Black Paches.</hi>
+                  </head>
+                  <p>WHereas the face of the Common-wealth has of late been everſhadowed with an Army of <hi>Black Paches,</hi> which like a black Leproſie have overſpread the Nation, and much ec<g ref="char:EOLhyphen"/>clipſed the Image of God in mankind, who therefore juſtly threa<g ref="char:EOLhyphen"/>tens us with an invaſion of the <hi>Scottiſh</hi> Locuſts: Beſides, the ſenſible decay of <hi>Taffata,</hi> the great ornament of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Suburbs thereof. We having diſcerned this with <hi>Galileoes</hi> perſpectives, and conſidering how prepoſterous it is to apply Leeches to the Face: As alſo that we might acquit our Truſt in preſerving the Common-wealth of <hi>England,</hi> as a ſpot<g ref="char:EOLhyphen"/>leſſe Virgin, have therefore enacted and ordained, That no perſon or perſons ſhall after the date hereof wear upon his or their Face or Faces, any Black Paches, or French Flyes, thoſe provocati<g ref="char:EOLhyphen"/>ons of luſt and cantharides of <hi>Taffata.</hi> And particularly they ſhall not wear any of thoſe called the Lord <hi>Bronkhards</hi> Paches, as being a monopoly of a prohibited Commodity. And who<g ref="char:EOLhyphen"/>ever offendeth herein ſhall be proceeded against as the Adulte<g ref="char:EOLhyphen"/>rers of the publique Coyn of the Common-wealth. And unto this purpoſe there ſhall be a Committee choſen, which ſhall be called the <hi>Committee of Scandalous Paches,</hi> and inabled to ſearch over all parts of the Body of thoſe perſons who ſhall be accuſed or ſuſpected thereof. And they ſhall likewiſe have inſtructions to conſult with the <hi>Mint-maſter</hi> for the better diſcovery of them, as alſo of all thoſe who clip and ſell them, who ſhall be liable to the ſame puniſhment as the wearers. Provided that this Act ſhall not extend to Rume-paches, which are neceſſary for thoſe that ſeek God early and late till they be anſwered by him; nor to ſuch as have loſt their Eyes in the ſervice of the State.</p>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:165712:4"/>
+            <p>This had been an imployment fit for a man of his Talent: But alas, I wrong him: he was indeed onely fit for what he has undertaken, that he might have his place among the reſt of thoſe <hi>Raviliacks</hi> of the Pen, to make his Stab at Monar<g ref="char:EOLhyphen"/>chy, and ſerve upon all occaſions for one of the Counſell of Conſcience to the Common-wealth.</p>
+            <p>For, though he hath the malice, yet he wants the courage to ſerve them in any higher miſchief. And though our Mer<g ref="char:EOLhyphen"/>cury doe wear a Rapier, it is as peaceable as the <hi>Caduceus</hi> of the other: He doth not wear it in the quality of a Sword, but hath it as other Beaſts have their tails to ſteer him about when he turns from one ſide to the other.</p>
+            <p>Or being divided ſtill in himſelf by Faction and Guilti<g ref="char:EOLhyphen"/>neſſe, he hath thus fortified his independent left ſide for fear of the right, which he hath diſarmed as a Cavalier.</p>
+            <p>But it is not at all dangerous, this kind of Serpents having all their ſting in the tongue, but none in the taile.</p>
+            <p>Yet ſurely it cannot conſiſt with the gravity and ſobriety of our State to own in any manner ſuch a fellow, and to en<g ref="char:EOLhyphen"/>tertain this Snake with the forked tongue into their boſome.</p>
+            <p>Nor can they with honour receive ſuch an one into their ſanctuary, who flies thither only that he may murther out of their Windowes.</p>
+            <p>Will they feed up an impoyſoner with <hi>Napell</hi> to kill the young <hi>Alexander?</hi>
+            </p>
+            <p>Will they incourage an <hi>Aſſaſin</hi> to attempt upon all Chri<g ref="char:EOLhyphen"/>ſtian Princes?</p>
+            <p>But if Common-wealths have a better Art of making Treacle of ſuch Vipers, and ours ſtand in competition with the State of <hi>Venice</hi> for the receit: Yet it is not fit that we ſhould lie at the mercy of a Taverne, and the drunkenneſſe of an Arbitrary Pen.</p>
+            <p>Muſt we be ſubjected to his two Sheets of High Court of Juſtice? We are content to ſerve, but it mads us to be re<g ref="char:EOLhyphen"/>proach'd,
+<pb n="8" facs="tcp:165712:5"/>and by ſuch an one as him: for there is no ſuch torment to a Chriſtian, as to be Tyrannized over by a Rene<g ref="char:EOLhyphen"/>gade.</p>
+            <p>We ask but the ſame liberty that he hath had againſt us: Let them but abandon him to us as the
+<note n="*" place="margin">
+                  <hi>Camillus</hi> to the <hi>Fa<g ref="char:EOLhyphen"/>liſci.</hi>
+               </note> 
+               <hi>Roman</hi> Generall did the Trayterous Schoolmaſter to his Pupills, and they ſhall ſee how we will order him.</p>
+            <p>
+               <hi>Boccalini,</hi> that innocent Moralizer, yet for writing ſome<g ref="char:EOLhyphen"/>what too freely for thoſe that were partiall, was thrown in<g ref="char:EOLhyphen"/>to the Canal at <hi>Venice,</hi> and there drown'd: It is time that we had our State-ſcold to the Ducking-ſtool.</p>
+            <p>It is ſtrange that my Lord Preſident ſhould ſuffer ſuch a Monſter at his Table: who, if he muſt be maintained, as an Executioner of their Adverſaries reputation, and the pub<g ref="char:EOLhyphen"/>lique inſtrument of Infamy; yet it were fit, that like the Hang-man, he ſhould have his Table apart, and eat and live excommunicate.</p>
+            <p>The lean <hi>Canniball</hi> has all that while my Lord Preſident in his teeth, and gnawes upon him in his minde, till he have opportunity to devour him.</p>
+            <p>So inſatiable is his appetite of ſpeaking ill, that there is no perſon ſo intimate to him, or ſo deſerving; nothing ſo ſecret or ſo religious which he abuſeth not to that purpoſe: So that he is neither to be tolerated in Society, nor Policy; neither in Coverſation, nor in a State, but rather as a publique parricide to be thrown into the Sea in a ſack, with a Cock, an Ape, and a Serpent, the right emblemes of his politique Triplicity.</p>
+            <epigraph>
+               <q rend="italic">
+                  <l>Such once the Changeling Prophet was</l>
+                  <l>That <hi>Centaure</hi> made of Man and Aſſe;</l>
+                  <l>And ſo himſelf did <hi>Balaam</hi> ſell</l>
+                  <l>To Curſe for <hi>Moab, Iſrael.</hi>
+                  </l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
